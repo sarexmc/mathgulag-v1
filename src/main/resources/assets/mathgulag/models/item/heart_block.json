@@ -1,0 +1,17 @@
+{
+ "parent": "mathgulag:block/heart_block",
+ "display": {
+  "gui": {
+   "rotation": [
+    20,
+    30,
+    0
+   ],
+   "scale": [
+    0.9,
+    0.9,
+    0.9
+   ]
+  }
+ }
+}

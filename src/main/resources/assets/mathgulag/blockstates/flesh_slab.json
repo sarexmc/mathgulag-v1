@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "type=bottom": {
+   "model": "mathgulag:block/flesh_slab"
+  },
+  "type=top": {
+   "model": "mathgulag:block/flesh_slab_top"
+  },
+  "type=double": {
+   "model": "mathgulag:block/flesh_block"
+  }
+ }
+}

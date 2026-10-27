@@ -1,0 +1,3 @@
+{"schemaVersion":1,"id":"mathgulag","version":"${version}","name":"MathGulag","description":"Math gulag: flesh cave, giant heart, claw skeleton.","environment":"*",
+"entrypoints":{"main":["com.mathgulag.MathGulag"],"client":["com.mathgulag.MathGulagClient"]},
+"depends":{"fabricloader":">=0.16.0","minecraft":"1.21.1","java":">=21","fabric-api":"*"}}

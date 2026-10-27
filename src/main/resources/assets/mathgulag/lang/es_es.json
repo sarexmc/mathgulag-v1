@@ -1,0 +1,13 @@
+{
+ "entity.mathgulag.claw_skeleton": "Esqueleto Garras",
+ "item.mathgulag.claw_skeleton_spawn_egg": "Huevo de Esqueleto Garras",
+ "block.mathgulag.flesh_block": "Bloque de carne",
+ "block.mathgulag.flesh_vein": "Carne con venas",
+ "block.mathgulag.flesh_slab": "Losa de carne",
+ "block.mathgulag.bone_block": "Bloque de hueso",
+ "block.mathgulag.bone_spike": "Pincho de hueso",
+ "item.mathgulag.spike_skull": "Calavera con pinchos",
+ "itemGroup.mathgulag": "MathGulag",
+ "block.mathgulag.flesh_wall": "Pared de carne",
+ "block.mathgulag.heart_block": "Corazon latiente"
+}

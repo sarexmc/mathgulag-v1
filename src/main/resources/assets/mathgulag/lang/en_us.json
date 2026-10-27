@@ -1,0 +1,13 @@
+{
+ "entity.mathgulag.claw_skeleton": "Claw Skeleton",
+ "item.mathgulag.claw_skeleton_spawn_egg": "Claw Skeleton Spawn Egg",
+ "block.mathgulag.flesh_block": "Flesh Block",
+ "block.mathgulag.flesh_vein": "Veined Flesh",
+ "block.mathgulag.flesh_slab": "Flesh Slab",
+ "block.mathgulag.bone_block": "Bone Block",
+ "block.mathgulag.bone_spike": "Bone Spike",
+ "item.mathgulag.spike_skull": "Spiked Skull",
+ "itemGroup.mathgulag": "MathGulag",
+ "block.mathgulag.flesh_wall": "Flesh Wall",
+ "block.mathgulag.heart_block": "Beating Heart"
+}

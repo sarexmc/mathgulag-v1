@@ -1,0 +1,11 @@
+{
+ "variants": {
+  "hanging=false": {
+   "model": "mathgulag:block/bone_spike"
+  },
+  "hanging=true": {
+   "model": "mathgulag:block/bone_spike",
+   "x": 180
+  }
+ }
+}

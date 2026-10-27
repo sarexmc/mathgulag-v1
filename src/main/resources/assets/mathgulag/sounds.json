@@ -1,0 +1,37 @@
+{
+ "click": {
+  "sounds": [
+   "mathgulag:click"
+  ]
+ },
+ "correct": {
+  "sounds": [
+   "mathgulag:correct"
+  ]
+ },
+ "boom": {
+  "sounds": [
+   "mathgulag:boom"
+  ]
+ },
+ "heartbeat": {
+  "sounds": [
+   "mathgulag:heartbeat"
+  ]
+ },
+ "pass": {
+  "sounds": [
+   "mathgulag:pass"
+  ]
+ },
+ "skull_on": {
+  "sounds": [
+   "mathgulag:skull_on"
+  ]
+ },
+ "tick": {
+  "sounds": [
+   "mathgulag:tick"
+  ]
+ }
+}
